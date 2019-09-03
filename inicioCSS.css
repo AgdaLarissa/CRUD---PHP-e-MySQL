@@ -1,0 +1,206 @@
+body{
+background: #ffffff;
+font-family: helvetica;
+
+text-transform: capitalize;
+font-size: .7em;
+font-weight: bold;
+text-align: center; 
+}
+.container{
+margin : 0 auto;
+width: 460;
+padding: 40px;
+position:right;
+}
+
+input{
+top: 2px;
+padding: 10px 30px;
+border: 5px;
+background: #EAECF7;
+color: black;
+width: 30em;
+position: center;
+}
+
+select{
+top: 2px;
+padding: 10px 30px;
+border: 5px;
+background: #CFCFCF;
+color: black;
+width: 30em;
+position: center;
+}
+
+textarea{
+top: 2px;
+padding: 20px 60px;
+border: 5px;
+background: #CFCFCF;
+color: black;
+width: 30em;
+position: center;
+}
+
+.botao{
+border: none;
+background:#858DBB;
+padding: 7px;
+color: white;
+border-radius: 2px;
+text-transform: uppercase;
+margin: 15px 20px 0;
+width: 8em;
+position: relative;
+box-shadow: 0 5px #EAECF7;
+cursor: pointer;
+position:center;
+}
+
+.botao:houver{
+top:2px;
+box-shadow: 0 3px #ba3c50;
+}
+
+.geral {
+    
+width:1000px;
+    
+height: 100px;
+    
+margin:0 auto; 
+position:center;
+text-align:left;
+font-size: 10px; 
+background:#F18C8E;
+ 
+  
+
+}
+
+.content
+{
+    
+display: table-cell;
+    
+width: 1000px;
+    
+padding: 20px;
+
+}
+
+aside
+{
+    
+display: table-cell;
+   
+ width: 360px;
+    
+height:510px;
+    
+background-color:#CFCFCF;
+    
+padding-right: 20px;
+    
+align-content: center;
+
+}
+
+
+h1{
+    
+font-family: helvetica;
+    
+color: black;
+    
+text-align: center;
+    
+font-size: 30px
+;
+}
+
+.h2{
+font-family: helvetica;
+
+text-align : center;
+}
+
+a{
+    
+font-family: helvetica;
+    
+font-size: 21px;
+   
+ text-decoration: none;
+    
+color: #141919;
+
+text-align: left;
+}
+
+a:hover
+{
+    
+color: #A69055;
+
+}
+
+.centerNav
+{
+    
+text-align: center;
+    
+font-size: 30px
+
+}
+
+.indentNav
+{
+    
+margin-left: 150px;
+
+}
+
+aside
+{
+    
+margin-left: 300px;
+
+}
+
+#nav
+{
+    
+margin: 5px;
+    
+padding: 0;
+   
+ float: left;  
+
+}
+
+
+#header
+{
+    
+height: 150px;
+   
+ background: #CFCFCF;
+    
+margin: 10px 5px;
+
+}
+
+
+#box1
+{
+    
+width: 1000px;    
+    
+margin: 0 auto;
+
+}
+
+
